@@ -1,0 +1,1 @@
+Memory management is a primary function of an operating system. Memory management is necessary for computers to operate, it is the brain of the computer. Like its name suggests, it stores information for later use.
